@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.prod.website-files.com/5e9aa66fd3886aa2b4ec01ca/5fd3903b41d20bd2244ec3fd_programminglanguagesstickers.jpg)
+![MasterHead](https://cdn.prod.website-files.com/5e9aa66fd3886aa2b4ec01ca/5fd3903b41d20bd2244ec3fd_programminglanguagesstickers.jpg)
 <h1 align="center">Hi 👋, I'm Berat Ergün</h1>
 <h3 align="center">Ticaret Üniversitesinde Bilgisayar Okuyorum</h3>
 
